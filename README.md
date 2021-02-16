@@ -10,7 +10,7 @@ Models are trained on [UT Zappos50K](http://vision.cs.utexas.edu/projects/finegr
 
 Images' edges were retreived with scikit-image package, and then used as source images for generation process.
 
-Overall architecture follows the one described in original [pix2pix paper](https://arxiv.org/abs/1611.07004)):
+Overall architecture follows the one described in original [pix2pix paper](https://arxiv.org/abs/1611.07004):
 
 - U-net as a generator
 - PatchGAN as a discriminator
