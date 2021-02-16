@@ -35,7 +35,7 @@ Please check out this [article](https://machinelearningmastery.com/how-to-implem
 
 # Handwritten Sketches to Shoes:
 
-Examples below are much less realistic due to my poor painting skills.
+Examples below are much less realistic probably due to my poor painting skills.
 
 ![sketch 1](https://github.com/nslyubaykin/cgan_for_edges_to_shoes/blob/master/images/sketch1.png)
 
